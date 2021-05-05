@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning NLP.
 
-📫 How to reach me :
+📫 How to reach me:
 
 🦄 Github account for co-development: [@neuemistral](https://github.com/neuemistral)
 
