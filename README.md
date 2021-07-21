@@ -11,12 +11,13 @@
 Language and Tools
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotolin" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">  
 </p>
 
 
