@@ -15,6 +15,7 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  
 </p>
 
