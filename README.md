@@ -8,7 +8,7 @@
 
 🦄 Github account for co-development: [@neuemistral](https://github.com/neuemistral)
 
-👩‍💻 Language and Tools
+Language and Tools
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
