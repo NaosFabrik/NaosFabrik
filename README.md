@@ -20,7 +20,9 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Drawio" height="40" style="vertical-align:top; margin:4px">   
+<img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Drawio" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="RaspberryPi" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="WordPress" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex" height="40" style="vertical-align:top; margin:4px"> 
