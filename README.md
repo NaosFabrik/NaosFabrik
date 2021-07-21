@@ -10,7 +10,7 @@
 
 👩‍💻 Language and Tools
 <p>
-<img src="https://worldvectorlogo.com/logo/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
