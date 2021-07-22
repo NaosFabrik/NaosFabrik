@@ -28,7 +28,7 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" style="vertical-align:top; margin:4px">  
-  
+ <img src="https://pbs.twimg.com/profile_images/720253203833487360/E4jA7xy5_400x400.jpg" alt="Jira" height="40" style="vertical-align:top; margin:4px">  
 </p>
 
 
