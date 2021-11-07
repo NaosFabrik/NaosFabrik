@@ -12,7 +12,7 @@ Language and Tools
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotolin" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotolin" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
