@@ -17,10 +17,12 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
+
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Drawio" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" style="vertical-align:top; margin:4px"> 
