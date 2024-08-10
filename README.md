@@ -2,7 +2,7 @@
 
 👀 I’m interested in intelligent processing and creative AI.
 
-🌱 I’m currently learning NLP.
+🌱 Current Challenge gonna be here soon...
 
 📫 How to reach me: Please DM me on Linkedln, Instagram, or X.
 
