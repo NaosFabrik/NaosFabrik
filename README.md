@@ -14,8 +14,7 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotolin" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
@@ -34,8 +33,7 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" height="40" style="vertical-align:top; margin:4px">   
 </p>
 
 
