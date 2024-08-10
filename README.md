@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning NLP.
 
-📫 How to reach me: [Google Form](https://forms.gle/eNTHtCFPUnCRYaMWA)
+📫 How to reach me: Please DM me on Linkedln, Instagram, or X.
 
 🦄 Github account for co-development: [@neuemistral](https://github.com/neuemistral)
 
