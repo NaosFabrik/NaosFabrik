@@ -28,8 +28,8 @@ Language and Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="RaspberryPi" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="WordPress" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="WordPress" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" style="vertical-align:top; margin:4px">  
