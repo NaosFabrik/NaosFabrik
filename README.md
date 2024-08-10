@@ -4,9 +4,7 @@
 
 🌱 Current Challenge gonna be here soon...
 
-📫 How to reach me: Please DM me on Linkedln, Instagram, or X.
-
-🦄 Github account for co-development: [@neuemistral](https://github.com/neuemistral)
+📫 How to reach me: Please DM me on X.
 
 Language and Tools
 <p>
