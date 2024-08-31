@@ -1,6 +1,6 @@
 👋 Hi, I’m Nao!
 
-👀 I’m interested in intelligent processing and creative AI.
+👀 I’m a software engineer who is interested in intelligent processing and creative AI.
 
 🌱 Current Challenge gonna be here soon...
 
