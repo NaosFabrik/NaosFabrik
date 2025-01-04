@@ -4,7 +4,7 @@
 
 🌱 Current Challenge gonna be here soon...
 
-📫 How to reach me: Please DM me on X.
+📫 How to reach me: Please give me a comment.
 
 Language and Tools
 <p>
