@@ -14,7 +14,6 @@ Language and Tools
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">  
